@@ -1,0 +1,15 @@
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\bin\Debug\net6.0\exam_hello.exe
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\bin\Debug\net6.0\exam_hello.deps.json
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\bin\Debug\net6.0\exam_hello.runtimeconfig.json
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\bin\Debug\net6.0\exam_hello.dll
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\bin\Debug\net6.0\exam_hello.pdb
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.csproj.AssemblyReference.cache
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.AssemblyInfoInputs.cache
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.AssemblyInfo.cs
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.dll
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\refint\exam_hello.dll
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.pdb
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\exam_hello.genruntimeconfig.cache
+C:\Program Files (x86)\GB\Lections\lec1\exam_hello\obj\Debug\net6.0\ref\exam_hello.dll
